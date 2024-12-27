@@ -1,0 +1,20 @@
+.container{
+  width: 300px;
+}
+.box{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
+.mr-5{
+  margin-right: 5px;
+}
+.ml-5{
+  margin-left: 5px;
+}
+.strikeoff{
+  text-decoration: line-through;
+}
